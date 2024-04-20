@@ -1,0 +1,18 @@
+- Program
+    - criar objeto Pessoa
+    - documentos
+    - pesquisar
+
+- classe Pessoa.cs
+    - nome
+    - data nascimento
+    - lista de documentos
+
+- interface IDocumento.cs
+    - Tipo
+    - Data de emissao
+    - exibir
+
+- classe Documento.cs
+    - Tipo
+    - Numero
